@@ -9,17 +9,17 @@ class CountrySelectorLocalizationAr extends CountrySelectorLocalization {
   CountrySelectorLocalizationAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get noResultMessage => 'لا نتيجة';
+  String get noResultMessage => 'لا يوجد نتيجة';
 
   @override
-  String get search => 'يبحث';
+  String get search => 'ابحث';
 
   @override
   String get typeToSearch => 'اكتب هنا للبحث عن دولة';
 
   @override
   String selectCountry(String country) {
-    return '$country يختار';
+    return '$country اختر';
   }
 
   @override

@@ -1,9 +1,9 @@
 {
   "@@locale": "ar",
-  "noResultMessage": "لا نتيجة",
-    "search": "يبحث",
+  "noResultMessage": "لا يوجد نتيجة",
+    "search": "ابحث",
   "typeToSearch": "اكتب هنا للبحث عن دولة",
-  "selectCountry": "{country} يختار",
+  "selectCountry": "{country} اختر",
   "@selectCountry": {
     "description": "Semantic of the search box",
     "placeholders": {
